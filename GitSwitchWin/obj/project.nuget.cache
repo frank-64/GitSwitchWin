@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0BCuvTiVbCWs6VxkgL8KC6Twd2lLr2MkdXbkleblSLwU3jTA1BBynH2LLyGbgV1OFi7kUgPdOB4Njg6qutlRkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frankie.clipsham\\source\\repos\\GitSwitchWin\\GitSwitchWin\\GitSwitchWin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frankie.clipsham\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\frankie.clipsham\source\repos\GitSwitchWin\GitSwitchWin\bin\Release\net7.0-windows\publish\GitSwitchWin.exe
+C:\Users\frankie.clipsham\source\repos\GitSwitchWin\GitSwitchWin\bin\Release\net7.0-windows\publish\GitSwitchWin.dll
+C:\Users\frankie.clipsham\source\repos\GitSwitchWin\GitSwitchWin\bin\Release\net7.0-windows\publish\GitSwitchWin.deps.json
+C:\Users\frankie.clipsham\source\repos\GitSwitchWin\GitSwitchWin\bin\Release\net7.0-windows\publish\GitSwitchWin.runtimeconfig.json
+C:\Users\frankie.clipsham\source\repos\GitSwitchWin\GitSwitchWin\bin\Release\net7.0-windows\publish\GitSwitchWin.pdb
+C:\Users\frankie.clipsham\source\repos\GitSwitchWin\GitSwitchWin\bin\Release\net7.0-windows\publish\Newtonsoft.Json.dll

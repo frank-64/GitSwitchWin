@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\frankie.clipsham\\source\\repos\\GitSwitchWin\\GitSwitchWin\\GitSwitchWin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\frankie.clipsham\\source\\repos\\GitSwitchWin\\GitSwitchWin\\GitSwitchWin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frankie.clipsham\\source\\repos\\GitSwitchWin\\GitSwitchWin\\GitSwitchWin.csproj",
+        "projectName": "GitSwitchWin",
+        "projectPath": "C:\\Users\\frankie.clipsham\\source\\repos\\GitSwitchWin\\GitSwitchWin\\GitSwitchWin.csproj",
+        "packagesPath": "C:\\Users\\frankie.clipsham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frankie.clipsham\\source\\repos\\GitSwitchWin\\GitSwitchWin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frankie.clipsham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waterstons/_packaging/Waterstons_SOA/nuget/v3/index.json": {},
+          "https://roystons.pkgs.visualstudio.com/_packaging/royston/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
